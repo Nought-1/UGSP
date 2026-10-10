@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- UGSP backoffice mark: same as the sidebar logo (square brand-red stamp with "UG") -->
+  <rect width="32" height="32" fill="#C8102E"/>
+  <text x="16" y="22" text-anchor="middle" fill="#FFFDF8"
+        font-family="Oswald, 'Arial Narrow', 'Roboto Condensed', Arial, sans-serif"
+        font-size="16" font-weight="700" letter-spacing="0.5">UG</text>
+</svg>
